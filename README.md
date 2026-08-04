@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋, I'm Mebeu Simo
+## computer engineering student
+I'm passionate about:
 
-<!--
-**mebeusimo-lang/Mebeusimo-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- python programming 
+- Computer vision 
+- Embedded system
+- Machine Learning
+## Technologies I'm learning 
+- Python
+- C/Java
+- Git/GitHub
+- OpenCV
+- YOLO
+- ESP32
+- Arduino
+## Contact
+Email: mebeusimo@gmail.com
+Douala,Cameroon.
